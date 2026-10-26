@@ -1,2 +1,2 @@
 # 100-days-of-Python
-Documenting 100 projects on Python based on the Udemy course
+Just a place to document and track my learning journey as I work on becoming a competent developer.
